@@ -1,7 +1,9 @@
 ### ☕ Support My Work
 
-[![GitHub Sponsors](https://shields.io)](https://github.com)
+[![GitHub Sponsors](https://shields.io)](https://github.com/zakskywalker) 
+
 [![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com)
+
 [![PayPal](https://shields.io)](https://paypal.me)
 
 #### 🪙 Crypto Wallets
